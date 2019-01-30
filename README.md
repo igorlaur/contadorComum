@@ -1,2 +1,0 @@
-# contadorComum
-Created with CodeSandbox
